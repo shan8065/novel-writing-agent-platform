@@ -1,0 +1,3 @@
+
+playwright&gt;=1.40.0
+
